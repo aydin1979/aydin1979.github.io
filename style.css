@@ -26,7 +26,7 @@ header {
   font-weight: 700;
   font-size: 1.8em;
 }
-body{
+.body{
     background: url("s-bf4686cbfaa5e298910ad0560963348b39d89fc9.gif") center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -54,7 +54,6 @@ section {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(s-bf4686cbfaa5e298910ad0560963348b39d89fc9.gif);
   background-size: cover;
   background-repeat: no-repeat;
   background-size: cover;
