@@ -31,7 +31,6 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     overflow-x: hidden;
-    @media
 }
 .navigation a {
   color: #3a6cf4;
@@ -51,8 +50,8 @@ section {
 }
 
 .main {
-  width: 50%;
-  min-height: 50vh;
+  width: 1%;
+  min-height: 1vh;
   display: flex;
   align-items: center;
   background-size: cover;
