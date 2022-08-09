@@ -45,16 +45,15 @@ section {
 }
 
 .main {
-  width: 1%;
-  min-height: 1vh;
+  width: 100%;
+  min-height: 100vh;
   display: flex;
   align-items: center;
+  background-image: url("s-bf4686cbfaa5e298910ad0560963348b39d89fc9.gif");
   background-size: cover;
-  background-repeat: no-repeat;
-  background-size: cover;
-  overflow-x: hidden;
+  background-position: center;
+  background-attachment: fixed;
 }
-
 .main h2 {
   font-weight: 600;
   color: #fff;
