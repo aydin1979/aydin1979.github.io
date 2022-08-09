@@ -49,10 +49,11 @@ section {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url(s-bf4686cbfaa5e298910ad0560963348b39d89fc9.gif);
+  background: url(s-bf4686cbfaa5e298910ad0560963348b39d89fc9.gif);
   background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow-x: hidden;
 }
 
 .main h2 {
