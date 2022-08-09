@@ -26,7 +26,12 @@ header {
   font-weight: 700;
   font-size: 1.8em;
 }
-
+body{
+    background: url("s-bf4686cbfaa5e298910ad0560963348b39d89fc9.gif") center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+}
 .navigation a {
   color: #3a6cf4;
   text-decoration: none;
