@@ -32,7 +32,7 @@ header {
     background-size: cover;
     overflow-x: hidden;
     @media
-}
+
 .navigation a {
   color: #3a6cf4;
   text-decoration: none;
@@ -208,4 +208,5 @@ h4 {
   padding: 2em;
   display: flex;
   justify-content: space-between;
+}
 }
